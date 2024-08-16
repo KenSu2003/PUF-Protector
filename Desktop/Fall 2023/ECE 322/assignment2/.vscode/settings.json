@@ -1,9 +1,0 @@
-{
-    "files.associations": {
-        "stdbool.h": "c",
-        "unistd.h": "c",
-        "time.h": "c",
-        "player.h": "c",
-        "stdlib.h": "c"
-    }
-}
